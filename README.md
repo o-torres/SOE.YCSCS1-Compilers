@@ -1,2 +1,6 @@
 # SOE.YCSCS1-Compilers
-Work StanfordOnline Compilers Class
+Programming Assignment work for StanfordOnline Compilers Class
+
+## hw1: lexical analyzer for COOL programming language
+### hw1/cool.flex: flex code
+### hw1/utests.cc: unit tests for lexical analyzer
